@@ -1,0 +1,23 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "David Jose",
+				"apellido": "Castro Climaco",
+				"direccion": "Cuscatancingo, San Salvador",
+				"telefono": "5555-2222",
+				"email": "cc18117@ues.edu.sv",
+				"url": "http://xml.cc18117.tpi",
+				"_id": "2",
+				"_fechaingreso": "03/09/2022"
+			}
+		]
+	}
+}
